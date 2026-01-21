@@ -1,2 +1,2 @@
 # mark as generated
-*.ipynb linguist-generated=true
+*.ipynb linguist-vendored
