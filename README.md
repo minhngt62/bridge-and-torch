@@ -19,7 +19,6 @@ This project even steps further, solving the general Bridge and Torch problem wi
 The whole program can be run quickly through `.\main.py` or the notebook.
 
 # Contributors
-The team consists of five members:
 - Nguyễn Tống Minh
 - Nguyễn Công Đạt
 - Nguyễn Xuân Thái Hòa
